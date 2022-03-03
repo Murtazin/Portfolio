@@ -1,0 +1,74 @@
+.contact-me-h3 h3 {
+    font-weight: 700;
+    color: #333;
+    font-size: 24px;
+}
+.contact-me-h3 {
+    margin-top: 40px;
+    margin-bottom: 15px;
+    position: relative;
+    display: inline-block;
+}
+.contact-me {
+    text-align: center;
+    margin-bottom: 60px;
+}
+.contact-me-hr {
+    position: relative;
+    margin-bottom: 20px;
+    color: #555555;
+}
+.contact-me-hr hr {
+    height: 2px;
+    width: 700px;
+    margin-left: 370px;
+    color: #555555;
+}
+.contact-me-p p {
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+}
+.contact-me-p {
+    color: #555555;
+}
+.fields {
+    position: relative;
+    text-align: center;
+}
+.your-name {
+    padding-bottom: 15px;
+}
+input {
+    width: 720px;
+    height: 42px;
+}
+textarea {
+    width: 720px;
+    height: 122px;
+}
+button {
+    height: 40px;
+    width: 160px;
+}
+.your-email {
+    padding-bottom: 15px;
+}
+.subject {
+    padding-bottom: 15px;
+}
+.your-message {
+    padding-bottom: 15px;
+}
+.submit {
+    margin-bottom: 100px;
+}
+.submit-button {
+    background-color: #1abc9c;
+    border-radius: 4px;
+    border: 0.1px solid;
+    color: white;
+}
+input:hover {
+    color: none;
+}

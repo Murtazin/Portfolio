@@ -173,7 +173,7 @@ header {
 }
 footer {
     width: 100%;
-    position: relative;
+    position: fixed;
     height: 370px;
     background: #2f2f2f;
     display: inline-block;
