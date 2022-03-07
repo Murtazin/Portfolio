@@ -1,6 +1,6 @@
 namespace Portfolio.Misc.Services;
 
-public class EmailSerivce
+public class EmailSerivce : IEmailService
 {
     
 }
